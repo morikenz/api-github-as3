@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.github.api.GitHub"/>
+    <classEntry path="com.github.api.auth.OAuth"/>
+    <classEntry path="com.github.api.util.GitHubURIResolver"/>
+    <classEntry path="com.github.api.vo.GitHubUser"/>
+    <classEntry path="com.github.api.events.GitHubUserEvent"/>
+    <classEntry path="com.github.api.auth.IGitHubAuth"/>
+    <classEntry path="com.github.api.service.GitHubUserService"/>
+    <classEntry path="com.github.api.util.GitHubUtils"/>
+    <classEntry path="com.github.api.vo.GitHubRepo"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
